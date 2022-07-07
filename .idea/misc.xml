@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/doan2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.145" />
+        <entry key="..\:/doan2/app/src/main/res/drawable/dong_ban.xml" value="0.145" />
+        <entry key="..\:/doan2/app/src/main/res/drawable/ic_ban.xml" value="0.145" />
+        <entry key="..\:/doan2/app/src/main/res/drawable/ic_nhanvien.xml" value="0.145" />
+        <entry key="..\:/doan2/app/src/main/res/drawable/ic_sua.xml" value="0.145" />
+        <entry key="..\:/doan2/app/src/main/res/drawable/ic_them.xml" value="0.145" />
+        <entry key="..\:/doan2/app/src/main/res/drawable/ic_thongke.xml" value="0.145" />
+        <entry key="..\:/doan2/app/src/main/res/drawable/ic_xem.xml" value="0.145" />
+        <entry key="..\:/doan2/app/src/main/res/drawable/ic_xoa.xml" value="0.145" />
+        <entry key="..\:/doan2/app/src/main/res/layout/activity_main.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/layout/ban.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/layout/chitiethoadon.xml" value="0.22" />
+        <entry key="..\:/doan2/app/src/main/res/layout/dangky.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/layout/dangnhap.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/layout/doimatkhau.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/layout/dong_ban.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/layout/dong_chi_tiet_hoa_don.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/layout/dong_hoa_don.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/layout/dong_khach_hang.xml" value="0.2" />
+        <entry key="..\:/doan2/app/src/main/res/layout/dong_nhan_vien.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/layout/dong_thuc_don.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/layout/hoadon.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/layout/khachhang.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/layout/nhanvien.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/layout/suaban.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/layout/suachitietthucdon.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/layout/suahanghoa.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/layout/suahoadon.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/layout/suakhachhang.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/layout/suanhanvien.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/layout/suathucdon.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/layout/themban.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/layout/themchitiethoadon.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/layout/themhoadon.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/layout/themkhachhang.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/layout/themnhanvien.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/layout/themthucdon.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/layout/thongke.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/layout/thucdon.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/menu/menu.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/menu/menu_context.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/menu/menuactivity.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/menu/menuban.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/menu/menuchitiethoadon.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/menu/menucontext.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/menu/menuhoadon.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/menu/menukhachhang.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/menu/menunhanvien.xml" value="0.17864583333333334" />
+        <entry key="..\:/doan2/app/src/main/res/menu/menuthucdon.xml" value="0.17864583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
